@@ -14,6 +14,7 @@ Building end-to-end analytics solutions: data ingestion → validation → trans
 Currently focused on:
 - Scalable ETL pipelines for high-volume data (500K+ records/day)
 - Automated data quality frameworks
+- SQL query optimization
 - Business intelligence dashboards that drive decisions
 
 ## 📫 Let's Connect
