@@ -1,47 +1,45 @@
 # Hi, I'm Bhavan 👋
 
-**Software Engineer — Data & AI** · Currently @ DoorDash · Bay Area, CA
+**Software Engineer · Data Infrastructure · Applied AI** · Currently @ DoorDash · San Jose, CA
 
-I build scalable data pipelines, agentic AI workflows, and ML systems that power real business decisions. 4+ years across GTM analytics, clinical AI, and enterprise data engineering.
+I build reliable data pipelines, automation, and applied AI systems. 4+ years across data engineering, machine learning, and LLM-orchestrated workflows at DoorDash, Flow.ai, Quantiphi, and Tata Consultancy Services.
 
 ---
 
 ## 🔧 Tech Stack
 
+**Languages & Processing**
+`Python` `SQL` `Pandas` `NumPy` `Apache Spark`
+
 **Data Engineering**
-`SQL` `Python` `Apache Airflow` `dbt` `Apache Spark` `ETL / ELT` `Data Modeling`
+`ETL / ELT` `Apache Airflow` `dbt` `Data Modeling` `Data Validation` `Pipeline Monitoring`
 
-**Cloud & Platforms**
-`AWS (Glue, S3, Lambda, SageMaker, QuickSight)` `GCP` `Snowflake` `Redshift` `Databricks` `BigQuery` `Azure`
+**Cloud & Warehousing**
+`AWS` `Google Cloud Platform` `Snowflake` `Amazon Redshift`
 
-**ML & Deep Learning**
-`TensorFlow` `PyTorch` `Scikit-learn` `XGBoost` `LSTM` `MLflow`
+**AI & Machine Learning**
+`LLM Orchestration` `Agentic AI Workflows` `BERT` `Hugging Face` `TensorFlow` `PyTorch` `scikit-learn` `NLP` `Google Document AI`
 
-**NLP & LLMs**
-`BERT / Hugging Face` `Transformers` `Google Document AI` `GPT-4` `RAG` `Agentic Frameworks`
+**Engineering & Deployment**
+`GitHub` `CI/CD` `Docker` `Kubernetes` `APIs` `Agile / Scrum`
 
-**BI & Visualization**
-`Tableau` `Power BI` `Sigma` `AWS QuickSight` `Looker` `Amplitude`
-
-**MLOps & DevOps**
-`Docker` `Kubernetes` `CI/CD` `GitHub Actions` `FastAPI` `Flask`
+**Analytics & BI**
+`Tableau` `Power BI` `AWS QuickSight` `Sigma`
 
 ---
 
 ## 💼 What I Do
 
-End-to-end data and AI engineering: pipelines → models → dashboards → decisions.
+**Currently at DoorDash — Software Engineer**
+- Data pipelines and SQL data models supporting Go-To-Market operations
+- Automated ingestion, transformation, validation, and monitoring workflows
+- AI-powered analytics and workflow automation
+- Dashboards, KPIs, and self-service analytics
 
-**Currently building at DoorDash:**
-- Scalable GTM data pipelines and SQL data models in cloud data warehouse environments
-- Automated ingestion, validation, and monitoring workflows for large-scale business data
-- AI-powered analytics initiatives including natural-language data querying and workflow automation
-- Self-service KPI dashboards and reporting tools for leadership decision-making
-
-**Previously:**
-- **Saayam For All** — Agentic AI workflows (LLM orchestration, BERT NLP, clinical risk prediction, GxP-compliant CI/CD)
-- **Quantiphi** — GenAI document processing, BERT classification models, GCP deployment
-- **Tata Consultancy Services** — ETL pipelines, Airflow, LSTM forecasting, Tableau dashboards
+**Previously**
+- **Flow.ai** — Software Engineer, Agentic AI: LLM-orchestrated workflows, BERT NLP pipelines for clinical and regulatory text, clinical risk prediction, GxP-governed CI/CD
+- **Quantiphi** — Machine Learning Engineer: BERT/Transformer ticket classification, Google Document AI, GCP and Docker deployment
+- **Tata Consultancy Services** — Associate Software Engineer: Python/SQL/Airflow ETL, LSTM forecasting evaluation, Tableau dashboards
 
 ---
 
@@ -49,31 +47,27 @@ End-to-end data and AI engineering: pipelines → models → dashboards → deci
 
 | Metric | Result |
 |--------|--------|
-| Clinical prediction accuracy | ↑ 15% |
-| Manual review effort (NLP automation) | ↓ 30% |
-| Analytics dev speed via Agentic AI | 3× faster |
-| NLP classification accuracy (Quantiphi) | ↑ 18% |
+| Analytics delivery via LLM workflows (Flow.ai) | 3× faster |
+| Manual review effort via NLP (Flow.ai) | ↓ 30% |
+| Clinical prediction accuracy (Flow.ai) | ↑ 15% |
+| Ticket classification accuracy (Quantiphi) | ↑ 18% |
 | ETL pipeline efficiency (TCS) | ↑ 35% |
-| Forecast accuracy (LSTM models) | ↑ 22% |
-| Monthly ad-hoc reports eliminated | 50+ |
+| Forecast accuracy (TCS) | ↑ 22% |
+| Monthly ad-hoc reports eliminated (TCS) | 50+ |
 
 ---
 
 ## 🎓 Education & Certifications
 
-- **MS in Data Analytics** — San Jose State University (Dec 2024)
+- **MS in Data Analytics** — San José State University (Dec 2024)
 - **BE in Computer Science** — Anna University, Chennai (May 2021)
-- Microsoft Fabric Analytics Engineer Associate
-- AWS Data Engineer Associate
-- Azure Fundamentals
+- AWS Certified Data Engineer – Associate
 
 ---
 
 ## 🔬 Research
 
-Active researcher in AI/ML for healthcare:
-- Privacy-preserving ML for behavioral health signal detection *(JMIR AI — active)*
-- LSTM + GPT-4 integration for biomedical signal classification
+Publications in deep learning for lung disease classification, text mining and ontology, cloud services, and IoT.
 
 📄 [Google Scholar](https://scholar.google.com/citations?user=HNc1CBIAAAAJ&hl=en)
 
@@ -82,10 +76,5 @@ Active researcher in AI/ML for healthcare:
 ## 📫 Let's Connect
 
 - 🌐 Portfolio: [bhavanbk2.github.io](https://bhavanbk2.github.io/)
-- 💼 LinkedIn: [bhavan-kumar-358755158](https://www.linkedin.com/in/bhavan-kumar-358755158)
+- 💼 LinkedIn: [bhavan-kumar-basavaraju](https://www.linkedin.com/in/bhavan-kumar-basavaraju-358755158/)
 - 📧 Email: [bhavanb2000@gmail.com](mailto:bhavanb2000@gmail.com)
-- 📚 Google Scholar: [bhavankumar.basavaraju](https://scholar.google.com/citations?user=HNc1CBIAAAAJ&hl=en)
-
----
-
-*Open to Software Engineer, Data Engineer, Analytics Engineer, and ML Engineering roles. H1B sponsorship required.*
